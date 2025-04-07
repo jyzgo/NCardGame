@@ -1,4 +1,4 @@
-const cacheName = "Playtwist-NCard-0.015b";
+const cacheName = "Playtwist-NCard-0.016b";
 const contentToCache = [
     "Build/NCardGame.loader.js",
     "Build/NCardGame.framework.js",
